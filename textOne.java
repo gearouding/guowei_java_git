@@ -6,6 +6,8 @@ public class textOne {
 		// TODO Auto-generated method stub
 
 		System.out.println("这是阿伟");
+		System.out.println("这是阿伟");
+
 	}
 
 }
